@@ -7,7 +7,4 @@
     - useParams()
     - useOutlet()
     - useLocation()
-- It also include components
-    - <Outlet/>
-    - <RouterProvider/>
     
